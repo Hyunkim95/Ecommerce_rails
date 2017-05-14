@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="1008px" viewBox="0 0 612 1008" enable-background="new 0 0 612 1008" xml:space="preserve">
+<circle fill="#FA8319" cx="306" cy="504" r="306"/>
+<path fill="#FFFFFF" d="M249.137,643.748h113.726c10.119,0,17.83-7.71,19.275-17.348c4.337-40.479,19.275-79.512,42.888-113.244
+	c16.385-23.613,26.022-52.045,26.022-82.886c0-83.367-70.355-150.349-155.168-144.566c-71.802,4.819-129.628,62.646-134.447,133.965
+	c-2.41,35.178,7.71,67.464,26.022,93.968c23.613,33.732,39.033,72.283,42.888,112.763
+	C231.307,636.038,239.499,643.748,249.137,643.748z"/>
+<g>
+	
+		<ellipse fill="none" stroke="#E6E9EE" stroke-width="0.686" stroke-miterlimit="10" cx="335.396" cy="421.597" rx="9.638" ry="19.275"/>
+	
+		<ellipse fill="none" stroke="#E6E9EE" stroke-width="0.686" stroke-miterlimit="10" cx="315.638" cy="421.597" rx="9.638" ry="19.275"/>
+	
+		<ellipse fill="none" stroke="#E6E9EE" stroke-width="0.686" stroke-miterlimit="10" cx="296.362" cy="421.597" rx="9.638" ry="19.275"/>
+	
+		<ellipse fill="none" stroke="#E6E9EE" stroke-width="0.686" stroke-miterlimit="10" cx="276.604" cy="421.597" rx="9.638" ry="19.275"/>
+</g>
+<g>
+	<path fill="#E6E9EE" d="M327.203,643.748v-112.28c0-11.565-9.638-21.203-21.203-21.203s-21.203,9.638-21.203,21.203v112.28H327.203
+		z"/>
+	<rect x="297.808" y="465.931" fill="#E6E9EE" width="16.385" height="62.164"/>
+</g>
+<g>
+	<polyline fill="none" stroke="#E6E9EE" stroke-width="0.686" stroke-linejoin="round" stroke-miterlimit="10" points="
+		316.602,524.239 379.247,421.597 345.033,421.597 	"/>
+	<polyline fill="none" stroke="#E6E9EE" stroke-width="0.686" stroke-linejoin="round" stroke-miterlimit="10" points="
+		295.398,524.239 232.753,421.597 266.967,421.597 	"/>
+</g>
+<path fill="#2B3B4E" d="M362.381,643.748H249.619v70.355c0,11.565,9.156,20.722,20.721,20.722h71.801
+	c11.565,0,20.722-9.156,20.722-20.722v-70.355H362.381z"/>
+<g>
+	<path fill="#324A5E" d="M366.236,668.324H245.282c-2.891,0-5.783-2.409-5.783-5.782l0,0c0-2.892,2.41-5.783,5.783-5.783h120.955
+		c2.892,0,5.782,2.41,5.782,5.783l0,0C372.019,665.915,369.128,668.324,366.236,668.324z"/>
+	<path fill="#324A5E" d="M366.236,689.046H245.282c-2.891,0-5.783-2.409-5.783-5.783l0,0c0-2.891,2.41-5.782,5.783-5.782h120.955
+		c2.892,0,5.782,2.409,5.782,5.782l0,0C372.019,686.637,369.128,689.046,366.236,689.046z"/>
+	<path fill="#324A5E" d="M366.236,709.767H245.282c-2.891,0-5.783-2.409-5.783-5.782l0,0c0-2.892,2.41-5.783,5.783-5.783h120.955
+		c2.892,0,5.782,2.41,5.782,5.783l0,0C372.019,707.357,369.128,709.767,366.236,709.767z"/>
+</g>
+</svg>

@@ -1,0 +1,237 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.nav-pills{
+  margin: 0 auto;
+}
+
+.hero-text h2{
+  font-size: 3em;
+}
+
+.navbar-default{
+}
+
+.navbar-override {
+  background-color: #009688 !important;
+  border-color: transparent !important;
+  color: white !important;
+  border-radius: 0 !important;
+}
+
+.navbar-brand{
+  color: white !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white !important;
+}
+
+
+// .navbar (min-width: 768px) {
+//   border-radius: none !important;
+// }
+
+section{
+  margin-top: -30px;
+}
+
+.btn-primary {
+    border-radius: 25px !important;
+    background-color: #009688!important;
+    display: inline-block !important;
+    padding: 14px 28px 13px 28px !important;
+    line-height: 1 !important;
+    border: 2px solid #009688 !important;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif!important;
+    font-weight: bold!important;
+    font-size: 11px!important;
+    text-transform: uppercase!important;
+    letter-spacing: 1px!important;
+    color: white !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.hero-text{
+  color: white !important;
+  margin-top: -4em;
+}
+
+.hero-image{
+  background-image: url(/assets/8.png);
+  background-repeat: no-repeat;
+  // background-position: 50% 0%;
+  background-position: 0% -10%;
+  height: 600px;
+}
+
+.ad img{
+   position:relative;
+  height: 250px;
+  width: 100%;
+}
+
+
+.panel{
+  border: none !important;
+}
+
+.panel-heading1{
+  border: none !important;
+  background-color: #26A69A !important;
+  color: white !important;
+}
+
+.center-pills {
+  display: flex;
+  justify-content: center;
+}
+
+.spacer{
+  margin-top: 40px;
+}
+
+.bottom-padding{
+  margin-bottom: 20px;
+}
+
+.list-group{
+  margin: 0;
+  display: block;
+}
+
+.list-group-item{
+  border-left-style: none !important;
+  border-right-style: none !important;
+}
+
+.red{
+  background-color: red;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.card{
+  width: 100%;
+  overflow: hidden;
+  border-radius: 3px 3px 0 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.card .product-image{
+  height: 150px;
+  // background-color: #F1BF26;
+}
+
+.ad{
+    height: 250px;
+  // background-color: #F1BF26;
+}
+
+#footerwrap {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background: #009688;
+}
+
+.hline-w {
+    border-bottom: 2px solid #ffffff;
+    margin-bottom: 25px;
+}
+
+.bottom_ul {
+    list-style-type: none;
+    float: right;
+    margin-bottom: 0px;
+}
+
+.bottom_ul li {
+    float: left;
+    line-height: 40px;
+}
+
+.bottom_ul li:after {
+    content: "/";
+    color: #FFF;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+footer{
+  color: white;
+}
+
+/* Number slider ------------------- */
+
+.slider {
+    position: relative;
+    display: inline-block;
+    margin: -4px 6px 0 0;
+}
+
+
+/* Label ------------------- */
+
+.slider-label {
+    position: absolute;
+    z-index: 1;
+    top: 4px;
+    font-size: 11px;
+    color: hsla(0,0%,0%,0);
+    pointer-events: none;
+    transition: transform .2s cubic-bezier(.26,.08,.15,1), color .6s .6s ease-out;
+}
+
+.slider-label.isRight {
+    right: 50%;
+    margin-right: -20px;
+    left: auto;
+    transform: translateX(20px);
+}
+.slider-label.isLeft {
+    right: auto;
+    margin-left: -20px;
+    left: 50%;
+    transform: translate(-20px);
+}
+
+.slider:active .slider-label {
+    color: hsla(0,0%,0%,.7);
+    transition-delay: 0;
+}
+
+
+/* Input ------------------- */
+
+.slider-input {
+    appearance: none;
+    position: relative;
+    vertical-align: middle;
+    width: 100px;
+    border-radius: 20px;
+    background: hsl(0,0%,80%);
+    box-shadow: 0 1px 0 hsla(0,0%,100%,.6);
+    overflow: hidden;
+}
+
+.slider-input::-webkit-slider-thumb,
+.slider-input::slider-thumb {
+    appearance: none;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    border: 5px solid hsl(0,0%,80%);
+    cursor: pointer;
+    background: hsl(0,0%,40%);
+    box-shadow: inset 0 1px 2px hsla(0,0%,0%,.4);
+    transition: border-width .2s cubic-bezier(.26, .08, .15, 1);
+}
+
+.slider-input:active::-webkit-slider-thumb,
+.slider-input:active::slider-thumb {
+    border: 0px solid hsl(0,0%,80%);
+    transition-duration: .1;
+}
