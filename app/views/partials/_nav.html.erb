@@ -8,8 +8,9 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <i class="fa fa-lightbulb-o navbar-brand fa-2x" style="color: #FA8319" aria-hidden="true"></i>
-      <a class="navbar-brand" href="#"> <strong>MEGA</strong>LIGHTING</a>
+        <%= link_to root_path, :class=> "navbar-brand" do %>
+        <%= image_tag('logo.gif', height: 20) %>
+        <% end %>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
